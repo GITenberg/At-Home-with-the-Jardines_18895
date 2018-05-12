@@ -1,0 +1,28 @@
+_repo: At-Home-with-the-Jardines_18895
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bell, Lilian
+    alias: Bogue, Lilian Lida Bell
+    birthdate: 1867
+    deathdate: 1929
+    gutenberg_agent_id: '4047'
+    url: http://www.gutenberg.org/2009/agents/4047
+description: Cover -- Contents.
+gutenberg_issued: '2006-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcc 'PS'
+title: At Home with the Jardines
+url: http://www.gutenberg.org/ebooks/18895
