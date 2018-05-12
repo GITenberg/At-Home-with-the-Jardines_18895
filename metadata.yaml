@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4047'
     url: http://www.gutenberg.org/2009/agents/4047
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18895#At-Home-with-the-Jardines
 gutenberg_issued: '2006-07-22'
 gutenberg_type: Text
 identifiers:
